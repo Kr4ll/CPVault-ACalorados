@@ -1,7 +1,7 @@
 # CPVault - Competitive Programming <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/46/Minecart_with_Chest_BE3.png/revision/latest?cb=20201124193416" alt="vault-icon" width="80" height="80" align="left"/>
 #### *Solutions to various kata or challenges from some important sites*
 
-<p align="justify">The purpose of this repository is to collect all the solutions made in previous challenges from most important sites such us codeforces, codewars, acepta el reto, etc. All solutions planned have achieved AC in a previous moment.</p>
+<p align="justify">The purpose of this repository is to collect all the solutions made in previous challenges from most important sites such us codeforces, codewars, acepta el reto, etc. All solutions planned have achieved AC in a previous moment. Each solution file is named after its associated ID on the corresponding website. For example, in Codewars, the file name corresponds to the kata ID.</p>
 
 <img src="https://docs.codewars.com/logo.svg" alt="codewars-icon" width="40" height="40" align="right"/>
 <img src="https://play-lh.googleusercontent.com/-9azrA7GgyNpNVfHRI5xLhRyy4OuqevecUAjUFFfpJccTGHkdd4oXYfw11Z5-jxlDRM" alt="codewars-icon" width="40" height="40" align="right"/>
