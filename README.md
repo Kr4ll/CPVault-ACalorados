@@ -29,4 +29,4 @@ git pull
 
 ## LICENSE <img src="https://www.logomed-gabinet.pl/wp-content/uploads/2021/06/license-icon-2793454.png" alt="license-icon" width="40" height="40" align="left"/>
 
-<p align="justify">This project is licensed under the open source MIT LICENSE. Please make sure that you comply with <a href="https://github.com/gu4re/CPVault/blob/main/LICENSE">the terms of this license<a> when using the code in this repository.</p>
+<p align="justify">This project is licensed under the open source <b>Creative Commons Zero v1.0 Universal</b>. Please make sure that you comply with <a href="https://github.com/gu4re/CPVault/blob/main/LICENSE">the terms of this license<a> when using the code in this repository.</p>
