@@ -13,16 +13,8 @@ public class Kata {
     }
     return numbersSolved;
   }
-}
-/* Utils implementation
-import java.util.stream.IntStream;
-
-public class Kata {
-  public static int[] pipeFix(int[] numbers) {
-    int min = numbers[0];
-    int max = numbers[numbers.length - 1];
-
-    return IntStream.rangeClosed(min, max).toArray();
+  // Utils implementation
+  public static int[] pipeFixUtils(int[] numbers) {
+    return IntStream.rangeClosed(numbers[0], numbers[numbers.length - 1]).toArray();
   }
 }
-*/
