@@ -15,17 +15,17 @@ public class Problem700 {
 						integerStringMap.get(title) + min);
 			}
 			List<Map.Entry<String, Integer>> integerStringMapList = new ArrayList<>(integerStringMap.entrySet());
-            Collections.sort(integerStringMapList,
-                    new Comparator<Map.Entry<String, Integer>>() {
-	                    @Override
-	                    public int compare(Map.Entry<String, Integer> entry1, Map.Entry<String, Integer> entry2) {
-		                    int valueComparison = entry2.getValue().compareTo(entry1.getValue());
-		                    if (valueComparison == 0)
-			                    return entry1.getKey().compareTo(entry2.getKey());
-		                    else
-			                    return valueComparison;
-	                    }
-                    });
+		    	Collections.sort(integerStringMapList,
+			    	new Comparator<Map.Entry<String, Integer>>() {
+				    @Override
+				    public int compare(Map.Entry<String, Integer> entry1, Map.Entry<String, Integer> entry2) {
+					int valueComparison = entry2.getValue().compareTo(entry1.getValue());
+					if (valueComparison == 0)
+						return entry1.getKey().compareTo(entry2.getKey());
+					else
+						return valueComparison;
+				    }
+			    	});
 			i = 0;
 			for(Map.Entry<String, Integer> e : integerStringMapList){
 				if (i == 3)
