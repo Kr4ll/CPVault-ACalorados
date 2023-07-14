@@ -1,1 +1,2 @@
 - String.format("%0" + N + "d", numberWithoutZeros) // Java Leading's Zeros where N is number of Zeros
+- Integer < Long < BigInteger
