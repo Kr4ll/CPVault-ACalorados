@@ -27,7 +27,7 @@ git pull
 
 ## COLLABORATORS <img src="https://www.clker.com/cliparts/9/1/4/0/11954322131712176739question_mark_naught101_02.svg.hi.png" alt="issues-icon" width="40" height="40" align="left"/>
 
-<p align="justify">Any dought or interests can be reported to its collaborators <a href="https://github.com/Kr4ll">Kr4ll<a> and <a href="https://github.com/gu4re/gu4re/issues">samidk<a></p>
+<p align="justify">Any dought or interests can be reported to its collaborators <a href="https://github.com/Kr4ll">Kr4ll<a> and <a href="https://github.com/samidhdk">samidk<a></p>
 
 ## LICENSE <img src="https://www.logomed-gabinet.pl/wp-content/uploads/2021/06/license-icon-2793454.png" alt="license-icon" width="40" height="40" align="left"/>
 
