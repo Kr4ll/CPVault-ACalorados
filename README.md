@@ -1,4 +1,6 @@
-# CPVault - Competitive Programming <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/46/Minecart_with_Chest_BE3.png/revision/latest?cb=20201124193416" alt="vault-icon" width="80" height="80" align="left"/>
+# CPVault of ACalorados - Competitive Programming <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/46/Minecart_with_Chest_BE3.png/revision/latest?cb=20201124193416" alt="vault-icon" width="80" height="80" align="left"/>
+<img src="https://imgur.com/4K9wWz4.png" alt="vault-icon" width="80" height="80" align="left"/>
+
 #### *Solutions to various kata or challenges from some important sites*
 
 <p align="justify">The purpose of this repository is to collect all the solutions made in previous challenges from most important sites such us codeforces, codewars, acepta el reto, etc. All solutions planned have achieved AC in a previous moment. Each solution file is named after its associated ID on the corresponding website. For example, in Codewars, the file name corresponds to the kata ID.</p>
@@ -23,9 +25,9 @@ git pull
 
 <p align="justify">Or, you can download the repository as a ZIP file by clicking on the green "Code" button at the top of the repository and selecting <a href="https://github.com/gu4re/CPVault/archive/refs/heads/main.zip">Download ZIP</a>.</p>
 
-## ISSUES <img src="https://www.clker.com/cliparts/9/1/4/0/11954322131712176739question_mark_naught101_02.svg.hi.png" alt="issues-icon" width="40" height="40" align="left"/>
+## COLLABORATORS <img src="https://www.clker.com/cliparts/9/1/4/0/11954322131712176739question_mark_naught101_02.svg.hi.png" alt="issues-icon" width="40" height="40" align="left"/>
 
-<p align="justify">Any issue can be reported <a href="https://github.com/gu4re/gu4re/issues">here<a> including as header <b>"CPVAULT ISSUE"</b> and I will try to solve it as soon as posible!</p>
+<p align="justify">Any dought or interests can be reported to its collaborators <a href="https://github.com/gu4re/gu4re/issues">here<a> and <a href="https://github.com/gu4re/gu4re/issues">here<a></p>
 
 ## LICENSE <img src="https://www.logomed-gabinet.pl/wp-content/uploads/2021/06/license-icon-2793454.png" alt="license-icon" width="40" height="40" align="left"/>
 
