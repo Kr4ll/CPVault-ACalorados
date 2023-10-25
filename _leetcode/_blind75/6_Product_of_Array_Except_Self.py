@@ -1,15 +1,18 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         mult = 1
-        nums_s = set(nums)
+        zero_bool = False
+        for i in nums:
+            if i == 0:
+                zero_bool = True
+                break
 
-
-        if 0 in nums_s:
+        if zero_bool:
             zeros = 0
             for i in nums:
                 if i == 0:
                     if zeros == 1:
-                        return [0]*len(nums)
+                        return [0] * len(nums)
                     else:
                         zeros += 1
                 else:
@@ -19,4 +22,4 @@ class Solution:
         else:
             for i in nums:
                 mult *= i
-            return [int(mult/i) for i in nums]
+            return [(mult // i) for i in nums]
